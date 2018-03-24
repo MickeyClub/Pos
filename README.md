@@ -3,7 +3,7 @@
 
 ---
 
-预览地址：http://zmqblog.top/Demo_Pos/dist/index.html
+预览地址：http://zmqblog.top/Pos/dist/index.html
 
 ---
 # 简介
